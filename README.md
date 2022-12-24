@@ -1,24 +1,6 @@
-# README
+# FRIENDS APP USING RAILS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first project using Ruby on Rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A nice youtube course helped me build this project and while building this, I learnt a lot of new stuff regarding Ruby. I also realised how maming CRUD apps gets super easy using Rails.
+Thank You freeCodeCamp.
