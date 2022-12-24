@@ -1,2 +1,0 @@
-class Idiot < ApplicationRecord
-end
